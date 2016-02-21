@@ -1,5 +1,9 @@
 # Prototype UI #1
 
+Tester différentes options pour le développement de l'interface utilisateur.
+
+**Rendu : 26 février**
+
 ## Objectif 
 Créer 2 pages HTML responsive pour mobile. Les pages doivent s’adapter à la taille de l’écran (largeur et hauteur). 
 - sans aucun framework (coder de A à Z)
