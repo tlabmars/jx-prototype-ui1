@@ -7,10 +7,10 @@ Tester différentes options pour le développement de l'interface utilisateur.
 ## Objectif 
 Créer 2 pages HTML responsive pour mobile. Les pages doivent s’adapter à la taille de l’écran (largeur et hauteur). 
 - sans aucun framework (coder de A à Z)
-- à l’aide de l’un des frameworks suivants
+- à l’aide de deux des frameworks suivants (répartissez-vous le travail :- )
   - [Bootstrap](https://github.com/twbs/bootstrap)
   - [Pure](https://github.com/yahoo/pure/)
-  - [Material UI](http://callemall.github.io/material-ui/)
+  - [Skeleton](https://github.com/dhg/Skeleton/)
   - [Semantic UI](https://github.com/Semantic-Org/Semantic-UI)
 
 
